@@ -1,4 +1,4 @@
-Hi, I’m Guilaine Ndahiro
+Hi, I’m **Guilaine Ndahiro**
 
 I’m a software developer with a strong interest in building practical, data-driven applications. I enjoy working across the stack, learning new technologies, and turning ideas into reliable, usable systems.
 
@@ -42,8 +42,8 @@ Continuous learning and professional growth
 
 **Let’s Connect !!**
 
-LinkedIn: https://www.linkedin.com/in/guilaine-ndahiro-14a376241/
+**LinkedIn**: https://www.linkedin.com/in/guilaine-ndahiro-14a376241/
 
-Email: ndahiro.guilaine@gmail.com
+**Email:** ndahiro.guilaine@gmail.com
 
 I’m always open to learning, collaboration, and opportunities to build meaningful technology.
