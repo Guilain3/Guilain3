@@ -4,7 +4,7 @@ I’m a software developer with a strong interest in building practical, data-dr
 
 This GitHub profile contains a mix of academic, personal, and exploratory projects that reflect my journey in software development and my interest in building solutions that have real-world impact.
 
-What I’m Working On
+**What I’m Working On**
 
 Building and improving web and backend applications
 
@@ -14,7 +14,7 @@ Continuously learning new tools and best practices through hands-on projects
 
 (Some repositories may be works in progress as I iterate and refine ideas.)
 
-🛠️ Technologies & Tools
+**Technologies & Tools**
 
 I’ve worked with and continue to explore:
 
@@ -28,7 +28,7 @@ Frontend: Modern UI development with component-based frameworks
 
 Workflow & Tools: Git/GitHub, collaborative development, documentation
 
-Interests
+**Interests**
 
 Software engineering & system design
 
@@ -40,7 +40,7 @@ Technology for social impact
 
 Continuous learning and professional growth
 
-🤝 Let’s Connect
+**Let’s Connect !!**
 
 LinkedIn: https://www.linkedin.com/in/guilaine-ndahiro-14a376241/
 
