@@ -1,10 +1,10 @@
-👋 Hi, I’m Guilaine Ndahiro
+Hi, I’m Guilaine Ndahiro
 
 I’m a software developer with a strong interest in building practical, data-driven applications. I enjoy working across the stack, learning new technologies, and turning ideas into reliable, usable systems.
 
 This GitHub profile contains a mix of academic, personal, and exploratory projects that reflect my journey in software development and my interest in building solutions that have real-world impact.
 
-🌱 What I’m Working On
+What I’m Working On
 
 Building and improving web and backend applications
 
@@ -28,7 +28,7 @@ Frontend: Modern UI development with component-based frameworks
 
 Workflow & Tools: Git/GitHub, collaborative development, documentation
 
-🚀 Interests
+Interests
 
 Software engineering & system design
 
